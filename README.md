@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **1dhakalrasik@gmail.com**
 
-- 📄 Know about my experiences [https://flowcv.com/resume/snbm20hjhh](https://flowcv.com/resume/snbm20hjhh)
-
 - ⚡ Fun fact **I love digital literacy events for youth in Nepal 🇳🇵**
 
 <h3 align="left">Connect with me:</h3>

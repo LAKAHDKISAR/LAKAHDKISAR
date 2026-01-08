@@ -2,7 +2,7 @@
 I'm a recent +2 graduate passionate about data science, AI, and building useful tech for social good.<br><br>🔭 I’m currently working on exciting tech projects.<br><br>🌱 I’m currently learning Deep Learning and Web Dev<br><br>🌐 Website I created way back but still use https://dhakalrasik.com.np<br><br>📫 How to reach me 1dhakalrasik@gmail.com<br><br>⚡ Fun fact I love digital literacy events for youth in Nepal 🇳🇵
 
 
-## Socials:
+# Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhakalrasik) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dhakalrasik) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@1dhakalrasik) 
 
 # Tech Stack:

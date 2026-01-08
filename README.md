@@ -20,4 +20,4 @@
 <a href="https://medium.com/@1dhakalrasik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@1dhakalrasik" height="30" width="40" /></a>
 </p>
 
-[![Rasik's GitHub stats](https://github-readme-stats.vercel.app/api?username=lakahdkisar)](https://github.com/lakahdkisar/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lakahdkisar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
